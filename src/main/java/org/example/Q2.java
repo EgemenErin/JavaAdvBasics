@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Q2 {
 
-    // Define the enum at the class level, outside of the main method
     enum Season {
         SPRING, SUMMER, AUTUMN, WINTER
     }
